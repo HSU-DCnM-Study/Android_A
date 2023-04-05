@@ -6,5 +6,6 @@
 APP NAME : 집에 가자
 
 ## 아키텍처 
-![아키텍처 수정본](https://user-images.githubusercontent.com/58154638/229753757-1f7cccc5-772e-4560-8e8b-a9b3c97c3b74.jpeg)
+![A팀1](https://user-images.githubusercontent.com/58154638/229973591-64fd242b-3edc-4aed-a343-68e4f042b075.jpg)
+
 
