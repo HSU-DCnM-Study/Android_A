@@ -7,7 +7,6 @@ import com.example.android_gohome.databinding.ActivityMainBinding
 
 class MainActivity : ViewBindingActivity<ActivityMainBinding>() {
 
-
     override val bindingInflater: (LayoutInflater) -> ActivityMainBinding
         get() = ActivityMainBinding::inflate
 
